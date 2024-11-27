@@ -2,4 +2,4 @@
  "LLISTAT DE COL.LABORADORS I ROL"
  "Mohammed Lee(meelllly) = Propietario"
  "Kevin Coll Morales(kevinak4747) = Colaborador"
- "Pedro Bonilla(lobandolerpi) = Colaborador"
+ "Pedro Bonilla(lobandolerpi) = Colaborador".
